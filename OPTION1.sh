@@ -27,7 +27,6 @@ banner
 function menu2
 {
 echo ""
-echo -e "\e[1;31m MENU: \e[0m"
 echo " [1] AUTO SETUP KALI"
 echo " [2] INSTALL ALL REPOSITORIES"
 echo " [3] UPDATE/UPGRADE TERMINAL"
