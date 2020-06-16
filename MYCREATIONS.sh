@@ -46,7 +46,7 @@ BY CONTACTING THEM.\e[0m"
 menu5
 
 echo ""
-echo " ======================================"
+echo "======================================="
 echo ""
 read -p "CHOOSE: " x
 
