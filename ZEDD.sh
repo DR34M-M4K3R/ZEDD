@@ -47,7 +47,8 @@ echo "[u] UPDATE ZEDD"
 echo "[a] ABOUT US"
 }
 menu1
-
+echo ""
+echo " ======================================"
 echo ""
 read -p "[CHOOSE]: " x
 
