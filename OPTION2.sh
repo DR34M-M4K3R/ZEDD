@@ -69,6 +69,7 @@ if [ "$x" == "$b2" ]; then      #OPTION 2
     ./onex/install
     echo ""
     echo "To run please type onex start"
+    echo ""
 fi
 
 if [ "$x" == "$bb" ]; then      #OPTION back
