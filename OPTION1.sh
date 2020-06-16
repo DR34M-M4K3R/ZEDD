@@ -27,16 +27,16 @@ banner
 function menu2
 {
 echo ""
-echo -e "\e[1;31mMENU: \e[0m"
-echo "[1] AUTO SETUP KALI"
-echo "[2] INSTALL ALL REPOSITORIES"
-echo "[3] UPDATE/UPGRADE TERMINAL"
-echo "[4] ONE CLICK SETUP ALL"
-echo "[b] TO GO BACK"
+echo -e "\e[1;31m MENU: \e[0m"
+echo " [1] AUTO SETUP KALI"
+echo " [2] INSTALL ALL REPOSITORIES"
+echo " [3] UPDATE/UPGRADE TERMINAL"
+echo " [4] ONE CLICK SETUP ALL"
+echo " [b] TO GO BACK"
 echo ""
-echo "[c] CONTACT DEVELOPERS"
-echo "[u] UPDATE ZEDD"
-echo "[a] ABOUT US"
+echo " [c] CONTACT DEVELOPERS"
+echo " [u] UPDATE ZEDD"
+echo " [a] ABOUT US"
 }
 menu2
 
