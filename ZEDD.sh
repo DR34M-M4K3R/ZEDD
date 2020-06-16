@@ -33,7 +33,6 @@ banner
 function menu1
 {
 echo ""
-echo -e "\e[1;31m CATEGORIES: \e[0m"
 echo " [1] SETUP KALI"
 echo " [2] INSTALL TOOLS"
 echo " [3] OTHERS"
