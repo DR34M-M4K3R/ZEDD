@@ -33,15 +33,15 @@ banner
 function menu1
 {
 echo ""
-echo -e "\e[1;31mCATEGORIES: \e[0m"
-echo "[1] SETUP KALI"
-echo "[2] INSTALL TOOLS"
-echo "[3] OTHERS"
-echo "[0] EXIT"
+echo -e "\e[1;31m CATEGORIES: \e[0m"
+echo " [1] SETUP KALI"
+echo " [2] INSTALL TOOLS"
+echo " [3] OTHERS"
+echo " [0] EXIT"
 echo ""
-echo "[c] CONTACT DEVELOPER"
-echo "[u] UPDATE ZEDD"
-echo "[a] ABOUT US"
+echo " [c] CONTACT DEVELOPER"
+echo " [u] UPDATE ZEDD"
+echo " [a] ABOUT US"
 }
 menu1
 echo ""
