@@ -44,7 +44,7 @@ menu3
 echo ""
 echo "======================================="
 echo ""
-read -p "CHOOSE: " x
+read -p "[CHOOSE]: " x
 
 #OPTIONS
 
