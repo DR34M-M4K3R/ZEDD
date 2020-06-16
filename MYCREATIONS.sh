@@ -33,6 +33,7 @@ echo ""
 echo -e "\e[1;31mOTHER CREATIONS: \e[0m"
 echo "[1] CANDICE"
 echo "[2] LAZY SCRIPT"
+echo "[3] Phisherprice
 echo "[b] TO GO BACK"
 echo "MORE TOOLS SOON!"
 echo ""
@@ -50,6 +51,7 @@ read -p "CHOOSE: " x
 
 d1='1'
 d2='2'
+d3='3'
 db='b'
 dc='c'
 da='a'
@@ -69,6 +71,15 @@ if [ "$x" == "$d2" ]; then   #OPTION 2
     cd lscript
     chmod +x install.sh
     ./install.sh
+fi 
+
+if [ "$x" == "$d3" ]; then   #OPTION 3
+    clear
+    echo "Please wait...."
+    git clone https://github.com/SirCryptic/phisherprice
+    cd phisherprice
+    sudo bash install.sh
+    sudo phisherprice.sh
 fi 
 
 if [ "$x" == "$db" ]; then   #OPTION back
