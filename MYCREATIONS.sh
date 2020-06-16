@@ -30,8 +30,9 @@ echo " ======================================"
 echo "|+-+-+-+-+-+-+ WELCOME +-+-+-+-+-+-+-+ |"
 echo " ======================================"
 echo ""
-echo -e "\e[1;31mMY CREATIONS: \e[0m"
+echo -e "\e[1;31mOTHER CREATIONS: \e[0m"
 echo "[1] CANDICE"
+echo "[2] LAZY SCRIPT"
 echo "[b] TO GO BACK"
 echo "MORE TOOLS SOON!"
 echo ""
@@ -48,6 +49,7 @@ read -p "CHOOSE: " x
 #OPTIONS
 
 d1='1'
+d2='2'
 db='b'
 dc='c'
 da='a'
@@ -57,6 +59,16 @@ if [ "$x" == "$d1" ]; then   #OPTION 1
     clear
     echo "Please wait...."
     sudo bash CANDICE.sh
+fi 
+
+if [ "$x" == "$d2" ]; then   #OPTION 2
+    clear
+    echo "Please wait...."
+    cd
+    git clone https://github.com/arismelachroinos/lscript.git
+    cd lscript
+    chmod +x install.sh
+    ./install.sh
 fi 
 
 if [ "$x" == "$db" ]; then   #OPTION back
