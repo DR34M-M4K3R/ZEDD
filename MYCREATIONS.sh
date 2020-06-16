@@ -27,7 +27,6 @@ banner
 function menu5
 {
 echo ""
-echo -e "\e[1;31m OTHER CREATIONS: \e[0m"
 echo " [1] CANDICE"
 echo " [2] LAZY SCRIPT"
 echo " [3] Phisherprice"
