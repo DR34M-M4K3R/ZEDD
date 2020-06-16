@@ -27,16 +27,16 @@ banner
 function menu4
 {
 echo ""
-echo -e "\e[1;31mMENU: \e[0m"
-echo "[1] SHOW IP ADDRESS"
-echo "[2] SHOW WIRELESS NETWORK"
-echo "[3] ARP SCAN"
-echo "[4] OTHER CREATIONS (EXTRA)"
-echo "[b] TO GO BACK"
+echo -e "\e[1;31m MENU: \e[0m"
+echo " [1] SHOW IP ADDRESS"
+echo " [2] SHOW WIRELESS NETWORK"
+echo " [3] ARP SCAN"
+echo " [4] OTHER CREATIONS (EXTRA)"
+echo " [b] TO GO BACK"
 echo ""
-echo "[c] CONTACT DEVELOPER"
-echo "[u] UPDATE ZEDD"
-echo "[a] ABOUT US"
+echo " [c] CONTACT DEVELOPER"
+echo " [u] UPDATE ZEDD"
+echo " [a] ABOUT US"
 }
 menu4
 
