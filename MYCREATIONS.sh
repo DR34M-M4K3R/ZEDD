@@ -57,6 +57,7 @@ du='u'
 if [ "$x" == "$d1" ]; then   #OPTION 1
     clear
     echo "Please wait...."
+    chmod +x CANDICE.sh
     sudo bash CANDICE.sh
 fi 
 
