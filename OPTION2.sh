@@ -65,8 +65,8 @@ fi
 if [ "$x" == "$b2" ]; then      #OPTION 2
     clear
     git clone https://github.com/rajkumardusad/onex.git
-    chmod +x onex
-    ./onex
+    chmod +x onex/install
+    ./onex/install
 fi
 
 if [ "$x" == "$bb" ]; then      #OPTION back
