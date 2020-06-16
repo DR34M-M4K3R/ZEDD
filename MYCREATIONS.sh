@@ -28,15 +28,15 @@ function menu5
 {
 echo ""
 echo -e "\e[1;31mOTHER CREATIONS: \e[0m"
-echo "[1] CANDICE"
-echo "[2] LAZY SCRIPT"
-echo "[3] Phisherprice"
-echo "[b] TO GO BACK"
-echo "MORE TOOLS SOON!"
+echo " [1] CANDICE"
+echo " [2] LAZY SCRIPT"
+echo " [3] Phisherprice"
+echo " [b] TO GO BACK"
+echo " MORE TOOLS SOON!"
 echo ""
-echo "[c] CONTACT DEVELOPER"
-echo "[u] UPDATE ZEDD"
-echo "[a] ABOUT US"
+echo " [c] CONTACT DEVELOPER"
+echo " [u] UPDATE ZEDD"
+echo " [a] ABOUT US"
 echo -e "\e[1;31mYOU CAN SUGGEST IDEAS TO THE DEVELOPER
 BY CONTACTING THEM.\e[0m"
 }
