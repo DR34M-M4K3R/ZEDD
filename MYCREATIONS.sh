@@ -44,6 +44,11 @@ echo -e "\e[1;31mYOU CAN SUGGEST IDEAS TO THE DEVELOPER
 BY CONTACTING THEM.\e[0m"
 }
 menu5
+
+echo ""
+echo " ======================================"
+echo "|+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ |"
+echo " ======================================"
 echo ""
 read -p "CHOOSE: " x
 
