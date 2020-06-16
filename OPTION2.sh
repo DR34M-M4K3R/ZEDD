@@ -39,7 +39,7 @@ echo " [a] ABOUT US"
 menu3
 
 echo ""
-read -p "[CHOOSE]: " x
+read -p " [CHOOSE]: " x
 
 #OPTIONS
 
