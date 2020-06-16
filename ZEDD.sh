@@ -49,9 +49,7 @@ echo "[a] ABOUT US"
 menu1
 
 echo ""
-echo "======================================="
-echo ""
-read -p "CHOOSE: " x
+read -p "[CHOOSE]: " x
 
 #OPTION1
 
