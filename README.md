@@ -5,6 +5,7 @@ Lazy enough to setup your terminal? use this time saver tool now!!!
 ## HOW TO INSTALL:
 - cd
 - git clone https://github.com/mZzgamer/ZEDD.git
+- cd ZEDD/
 - chmod +x ZEDD.sh
 - sudo bash ZEDD.sh
 ## HOW TO GET LATEST VERSION:
