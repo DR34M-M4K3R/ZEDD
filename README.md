@@ -1,3 +1,6 @@
+## MAIN OS: 
+- KALI LINUX
+- BUT YOU CAN STILL USE IT ON OTHER LINUX OS
 ## ABOUT:
 Lazy enough to setup your terminal? use this time saver tool now!!!
 ## SCREENSHOT V.1.0:
