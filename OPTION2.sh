@@ -67,7 +67,8 @@ if [ "$x" == "$b2" ]; then      #OPTION 2
     git clone https://github.com/rajkumardusad/onex.git
     chmod +x onex/install
     ./onex/install
-    toolx
+    echo ""
+    echo "To run please type toolx"
 fi
 
 if [ "$x" == "$bb" ]; then      #OPTION back
