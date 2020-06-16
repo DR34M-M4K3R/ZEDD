@@ -10,8 +10,8 @@ Lazy enough to setup your terminal? use this time saver tool now!!!
 ## HOW TO GET LATEST VERSION:
 - Just re-install the tool.
 ## NOTE:
-(CONTACT ME WITH DISCORD OR TWITTER IF THERE IS ANY ISSUES
+CONTACT ME WITH DISCORD OR TWITTER IF THERE IS ANY ISSUES
 
-CONTACT DETAILS)
+(CONTACT DETAILS)
 DISCORD: mZzgamer#8652 ||
 TWITTER: @mZzgamerDEV
