@@ -95,6 +95,7 @@ if [ "$x" == "$dc" ]; then      #OPTION CONTACT
     echo "DISCORD: mZzgamer#8652"
     echo "TWITTER: @mZzgamerDEV"
     echo ""
+    echo "You can also join our Discord server: https://discord.gg/ZjVjr6j "
     echo "If there is there is any issue please specify, and have a great day!"
     echo ""
     read -p "PRESS ANY KEY TO CONTINUE"
