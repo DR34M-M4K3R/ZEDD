@@ -27,14 +27,14 @@ banner
 function menu3
 {
 echo ""
-echo -e "\e[1;31mMENU: \e[0m"
-echo "[1] AUTO INSTALL ALL TOOLS"
-echo "[2] MANUALL INSTALL TOOLS (370 TOOLS)"
-echo "[b] TO GO BACK"
+echo -e "\e[1;31m MENU: \e[0m"
+echo " [1] AUTO INSTALL ALL TOOLS"
+echo " [2] MANUALL INSTALL TOOLS (370 TOOLS)"
+echo " [b] TO GO BACK"
 echo ""
-echo "[c] CONTACT DEVELOPERS"
-echo "[u] UPDATE ZEDD"
-echo "[a] ABOUT US"
+echo " [c] CONTACT DEVELOPERS"
+echo " [u] UPDATE ZEDD"
+echo " [a] ABOUT US"
 }
 menu3
 
