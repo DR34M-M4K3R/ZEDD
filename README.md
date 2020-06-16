@@ -4,7 +4,7 @@
 ## ABOUT:
 Lazy enough to setup your terminal? use this time saver tool now!!!
 ## SCREENSHOT V.1.0:
-![ZEDD](https://user-images.githubusercontent.com/66206932/84722852-dfdb1c00-af73-11ea-9c66-fe83df0d157b.png)
+![Screenshot_2020-06-16_16-13-17](https://user-images.githubusercontent.com/66206932/84749284-4b8bac00-afa9-11ea-9943-f3ed448957e7.png)
 ## HOW TO INSTALL:
 - cd
 - git clone https://github.com/mZzgamer/ZEDD.git
