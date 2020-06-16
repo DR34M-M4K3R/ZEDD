@@ -42,7 +42,7 @@ BY CONTACTING THEM.\e[0m"
 menu5
 
 echo ""
-read -p " [CHOOSE]: " x
+read -p " CHOOSE: " x
 
 #OPTIONS
 
