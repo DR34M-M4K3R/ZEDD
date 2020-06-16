@@ -13,5 +13,5 @@ Lazy enough to setup your terminal? use this time saver tool now!!!
 CONTACT ME WITH DISCORD OR TWITTER IF THERE IS ANY ISSUES
 
 CONTACT DETAILS:
-DISCORD: mZzgamer#8652
+DISCORD: mZzgamer#8652 ||
 TWITTER: @mZzgamerDEV
