@@ -68,7 +68,7 @@ if [ "$x" == "$b2" ]; then      #OPTION 2
     chmod +x onex/install
     ./onex/install
     echo ""
-    echo "To run please type toolx"
+    echo "To run please type onex start"
 fi
 
 if [ "$x" == "$bb" ]; then      #OPTION back
