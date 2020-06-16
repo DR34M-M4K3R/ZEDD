@@ -27,7 +27,6 @@ banner
 function menu4
 {
 echo ""
-echo -e "\e[1;31m MENU: \e[0m"
 echo " [1] SHOW IP ADDRESS"
 echo " [2] SHOW WIRELESS NETWORK"
 echo " [3] ARP SCAN"
