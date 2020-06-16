@@ -64,11 +64,9 @@ fi
 
 if [ "$x" == "$b2" ]; then      #OPTION 2
     clear
-    sudo apt update
-    sudo apt install git
     git clone https://github.com/rajkumardusad/onex.git
     chmod +x onex
-    sh onex
+    ./onex
 fi
 
 if [ "$x" == "$bb" ]; then      #OPTION back
