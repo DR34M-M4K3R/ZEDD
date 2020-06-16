@@ -41,7 +41,7 @@ echo " [a] ABOUT US"
 menu4
 
 echo ""
-read -p "[CHOOSE]: " x
+read -p " [CHOOSE]: " x
 
 #OPTIONS
 
