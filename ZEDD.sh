@@ -33,8 +33,6 @@ banner
 function menu1
 {
 echo " ======================================"
-echo "|+-+-+-+-+-+-+ WELCOME +-+-+-+-+-+-+-+ |"
-echo " ======================================"
 echo ""
 echo -e "\e[1;31mCATEGORIES: \e[0m"
 echo "[1] SETUP KALI"
