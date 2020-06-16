@@ -42,6 +42,8 @@ echo "[2] INSTALL TOOLS"
 echo "[3] OTHERS"
 echo "[0] EXIT"
 echo ""
+echo " ======================================"
+echo ""
 echo "[c] CONTACT DEVELOPER"
 echo "[u] UPDATE ZEDD"
 echo "[a] ABOUT US"
@@ -50,6 +52,9 @@ menu1
 
 echo ""
 read -p "CHOOSE: " x
+echo " ======================================"
+echo "|+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ |"
+echo " ======================================"
 
 #OPTION1
 
