@@ -7,7 +7,7 @@ Lazy enough to setup your terminal? use this time saver tool now!!!
 ![Screenshot_2020-06-16_16-13-17](https://user-images.githubusercontent.com/66206932/84749284-4b8bac00-afa9-11ea-9943-f3ed448957e7.png)
 ## HOW TO INSTALL:
 - cd
-- git clone https://github.com/mZzgamer/ZEDD.git
+- git clone https://github.com/mZzgamer/ZEDD
 - cd ZEDD/
 - chmod +x ZEDD.sh
 - sudo bash ZEDD.sh
