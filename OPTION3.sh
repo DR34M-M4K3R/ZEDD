@@ -55,14 +55,17 @@ ca='a'
 
 
 if [ "$x" == "$c1" ]; then    #OPTION 1
-    clear
-    publicip="$(curl ifconfig.me)"
-    localip="$(hostname -I)"
-    echo ""
-    ifconfig 
-    echo ""
-    read -p "PRESS ANY KEY TO CONTINUE"
-    clear
+	clear
+	echo "XCLIP INSTALLATION (16 Ko)..."
+	git clone https://github.com/astrand/xclip.git
+	clear
+	publicip="$(curl ifconfig.me)"
+	localip="$(hostname -I)"
+	echo "YOUR PUBLIC IP IS $publicip AND YOUR LOCAL IP IS $localip"
+	echo "PUBLIC IP: $publicip -- LOCAL IP: $localip" | xclip -selection clipboard
+	echo "THESE INFOS ARE COPIED TO CLIPBOARD"
+	read -p "PRESS ENTER TO CONTINUE"
+	clear
     sudo bash OPTION3.sh
 fi
 
