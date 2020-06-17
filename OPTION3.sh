@@ -61,12 +61,15 @@ if [ "$x" == "$c1" ]; then    #OPTION 1
 	clear
 	publicip="$(curl ifconfig.me)"
 	localip="$(hostname -I)"
-	echo "YOUR PUBLIC IP IS $publicip AND YOUR LOCAL IP IS $localip"
+	echo ""
+	echo "YOUR PUBLIC IP IS $publicip" 
+	echo "YOUR LOCAL IP IS $localip"
 	echo "PUBLIC IP: $publicip -- LOCAL IP: $localip" | xclip -selection clipboard
 	echo "THESE INFOS ARE COPIED TO CLIPBOARD"
+	echo ""
 	read -p "PRESS ENTER TO CONTINUE"
 	clear
-    sudo bash OPTION3.sh
+        sudo bash OPTION3.sh
 fi
 
 
