@@ -38,7 +38,7 @@ echo " [u] UPDATE ZEDD"
 echo " [a] ABOUT US"
 echo ""
 echo -e "\e[1;31m YOU CAN SUGGEST IDEAS TO THE DEVELOPER
-BY CONTACTING THEM.\e[0m"
+ BY CONTACTING THEM.\e[0m"
 }
 menu5
 
