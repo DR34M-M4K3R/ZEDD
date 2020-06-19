@@ -102,7 +102,7 @@ if [ "$x" == "$dc" ]; then      #OPTION CONTACT
     sudo bash MYCREATIONS.sh
 fi
 
-if [ "$x" == "$cu" ]; then   #OPTION UPDATE
+if [ "$x" == "$du" ]; then   #OPTION UPDATE
     clear
     echo "READY TO UPTATE...THERE IS AN EMERGENCY RECUPERATION FILES SYSTEM. CONTACT US FOR MORE."
     cd ..
