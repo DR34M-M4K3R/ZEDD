@@ -331,7 +331,7 @@ if [ "$x" == "$ac" ]; then   #OPTION CONTACT
 fi
 
 
-if [ "$x" == "$optionu" ]; then   #OPTION UPDATE
+if [ "$x" == "$au" ]; then   #OPTION UPDATE
     clear
     echo "READY TO UPTATE...THERE IS AN EMERGENCY RECUPERATION FILES SYSTEM. CONTACT US FOR MORE."
     cd ..
