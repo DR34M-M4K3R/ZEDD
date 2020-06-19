@@ -75,7 +75,7 @@ if [ "$x" == "$c1" ]; then    #OPTION 1
     echo ""
     read -p "PRESS ENTER TO CONTINUE"
     clear
-        cd $curdir
+    cd $curdir
     sudo bash OPTION3.sh
 fi
 
