@@ -122,7 +122,7 @@ if [ "$x" == "$cc" ]; then      #OPTION CONTACT
     sudo bash OPTION3.sh
 fi
 
-if [ "$x" == "$optionu" ]; then   #OPTION UPDATE
+if [ "$x" == "$cu" ]; then   #OPTION UPDATE
     clear
     echo "READY TO UPTATE...THERE IS AN EMERGENCY RECUPERATION FILES SYSTEM. CONTACT US FOR MORE."
     cd ..
