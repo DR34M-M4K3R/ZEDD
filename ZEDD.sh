@@ -33,7 +33,7 @@ banner
 function menu1
 {
 echo ""
-echo " [1] SETUP KALI WHATS UP!"
+echo " [1] SETUP KALI"
 echo " [2] INSTALL TOOLS"
 echo " [3] OTHERS"
 echo " [0] EXIT"
