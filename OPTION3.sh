@@ -122,7 +122,6 @@ if [ "$x" == "$cc" ]; then      #OPTION CONTACT
     sudo bash OPTION3.sh
 fi
 
-
 if [ "$x" == "$optionu" ]; then   #OPTION UPDATE
     clear
     echo "READY TO UPTATE...THERE IS AN EMERGENCY RECUPERATION FILES SYSTEM. CONTACT US FOR MORE."
@@ -133,7 +132,9 @@ if [ "$x" == "$optionu" ]; then   #OPTION UPDATE
     rm -rf ./ZEDD.SAV   
     read -p "PRESS ENTER TO CONTINUE"
     clear
+    sudo bash ZEDD.sh
 fi
+
 if [ "$x" == "$ca" ]; then   #OPTION ABOUT
     clear
     echo -e "\e[1;31mABOUT US:\e[0m"
