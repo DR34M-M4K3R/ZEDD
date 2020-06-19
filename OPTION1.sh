@@ -330,13 +330,17 @@ if [ "$x" == "$ac" ]; then   #OPTION CONTACT
     sudo bash OPTION1.sh
 fi
 
-if [ "$x" == "$au" ]; then   #OPTION UPDATE
+
+if [ "$x" == "$optionu" ]; then   #OPTION UPDATE
     clear
-    echo "SORRY UPDATE IS STILL WORK IN PROGRESS..."
-    echo ""
-    read -p "PRESS ANY KEY TO CONTINUE"
+    echo "READY TO UPTATE...THERE IS AN EMERGENCY RECUPERATION FILES SYSTEM. CONTACT US FOR MORE."
+    cd ..
+    mv ./ZEDD ./ZEDD.SAV
+    git clone https://github.com/mZzgamer/ZEDD.git
+    echo "UPDATE SUCCESSFULLY"
+    rm -rf ./ZEDD.SAV   
+    read -p "PRESS ENTER TO CONTINUE"
     clear
-    sudo bash OPTION1.sh
 fi
 
 if [ "$x" == "$aa" ]; then   #OPTION ABOUT
