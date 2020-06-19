@@ -341,6 +341,7 @@ if [ "$x" == "$optionu" ]; then   #OPTION UPDATE
     rm -rf ./ZEDD.SAV   
     read -p "PRESS ENTER TO CONTINUE"
     clear
+    sudo bash ZEDD.sh
 fi
 
 if [ "$x" == "$aa" ]; then   #OPTION ABOUT
