@@ -6,8 +6,8 @@
 - BUT YOU CAN STILL USE IT ON OTHER LINUX OS
 ## ABOUT:
 Lazy enough to setup your terminal? use this time saver tool now!!!
-## SCREENSHOT V.1.0:
-![Screenshot_2020-06-16_16-13-17](https://user-images.githubusercontent.com/66206932/84749284-4b8bac00-afa9-11ea-9943-f3ed448957e7.png)
+## NEW NEAT LOOK V.1.0:
+![Screenshot_2020-06-19_13-26-12](https://user-images.githubusercontent.com/66206932/85117137-e8e71a00-b20d-11ea-863a-14a70aa031af.png)
 ## HOW TO INSTALL:
 - cd
 - git clone https://github.com/mZzgamer/ZEDD
