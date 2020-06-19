@@ -1,3 +1,6 @@
+## CONTRIBUTORS:
+- Terminator
+- SirCryptic
 ## MAIN OS: 
 - KALI LINUX
 - BUT YOU CAN STILL USE IT ON OTHER LINUX OS
