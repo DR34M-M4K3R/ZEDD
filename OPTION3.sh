@@ -132,6 +132,9 @@ if [ "$x" == "$optionu" ]; then   #OPTION UPDATE
     rm -rf ./ZEDD.SAV   
     read -p "PRESS ENTER TO CONTINUE"
     clear
+    git clone https://github.com/mZzgamer/ZEDD
+    cd ZEDD/
+    chmod +x ZEDD.sh
     sudo bash ZEDD.sh
 fi
 
